@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Criar usuário no MySql"
-date:   2019-03-29 22:10:00 -0300
+date:   2019-03-29 22:21:00 -0300
 categories: My SQL
 ---
 ### Motivação:
@@ -25,5 +25,6 @@ Pronto agora basta recarregar os privilégios do seu usuário:
 Para acessar o my sql digite :
 `$ mysql -u USER -p `  
 Após digite sua senha e pronto!
+
 
 
