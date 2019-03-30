@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Criar usuário no MySql"
-date:   2019-03-19 22:10:00 -0300
+date:   2019-03-29 22:10:00 -0300
 categories: My SQL
 ---
 ### Motivação:
