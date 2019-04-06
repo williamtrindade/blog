@@ -14,11 +14,11 @@ Agora crie o usuário:
 
 ### Fornecer os privilégios:  
 Agora é necessário fornecer os privilégios ao novo user, com o comando:  
-`mysql> GRANT ALL PRIVILEGIES ON *.* TO 'NOVOUSER'@'LOCALHOST'; `  
+`mysql> GRANT ALL PRIVILEGES ON *.* TO 'NOVOUSER'@'LOCALHOST'; `  
 
 ### Recarregar os privilégios:
 Pronto agora basta recarregar os privilégios do seu usuário:  
-`mysql> FLUSH PRIVILEGIES`  
+`mysql> FLUSH PRIVILEGES`  
 
 ### Acessar o seu usuário:  
 Para acessar o my sql digite :
