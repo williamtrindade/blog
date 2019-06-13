@@ -17,8 +17,8 @@ Para instalar acesse o tutorial feito aqui no blog:
 
 ### Composer
 O composer é um gerenciador de dependências do PHP.  
-Para instalar use um ótimo tutorial feito pelo pessoal do Composer.
-[Baixar Composer](https://getcomposer.org/download/)
+Para instalar use o apt:  
+´sudo apt install composer´  
 
 ### Ferramenta de Banco de Dados
 Para gerenciar seu SGBD seja qual for de forma visual.  
