@@ -4,7 +4,7 @@ title:  "Instalar LAMP no Ubuntu, Debian e derivados!"
 date:   2019-03-24 11:18:00 -0300
 categories: linux
 ---
-## Oque é LAMP:
+## O que é LAMP:
 O lamp vem de Linux, Apache, MySQL e PHP.
 Com ele você tera um servidor local rodando lindamente para programar em php e mysql.
 
